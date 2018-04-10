@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hola sucio humano, soy tu señor
+=======
+Hola mundo
+
+>>>>>>> c2b0326d0bc803004d0f5411d64d4aa0e5ba18bd
